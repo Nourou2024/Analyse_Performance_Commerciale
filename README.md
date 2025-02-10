@@ -8,6 +8,7 @@ Le jeu de données provient d'un fichier CSV contenant des informations sur :
 - Les caractéristiques des employés (département, niveau d'éducation, satisfaction, etc.).
 - Les performances des employés (évaluation, nombre de projets gérés, heures de formation, etc.).
 - Les facteurs financiers (salaire, heures supplémentaires, absences, etc.).
+
 Source : https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
 
 # Outils et Technologies
